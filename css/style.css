@@ -3,8 +3,8 @@
 
 /* Reset */
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
 body {
@@ -14,32 +14,29 @@ body {
 
 header {
     margin-top: 75px;
-    margin-left: 360px;
 }
 
 .logo {
     display: inline-block;
+    margin-left: 360px;
+    text-align: left;
 }
 
 section {
-    magin: 60px auto;
-    margin-top: 60px;
-    margin-left: 564px;
+    margin: 0px auto;
     width: 792px;
     height: 846px;
+    text-align: center;
 }
 
 h1 {
+    margin: 60px auto 0px auto;
     font-family: "Unbounded", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     font-size: 64px;
     width: 625px;
     height: 158px;
-    text-align:center;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 h1 span {
@@ -47,14 +44,12 @@ h1 span {
 }
 
 p {
-    margin: 24px auto 0px auto;
+    margin: 24px auto 0 auto;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
     width: 600px;
     height: 72px;
-    text-align: center;
-    
 }
 
 .botao {
