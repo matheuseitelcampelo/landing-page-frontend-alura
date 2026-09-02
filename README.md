@@ -60,4 +60,4 @@ O projeto está publicado e pode ser acessado diretamente pelo navegador:
 Caso queira clonar o projeto para analisar o código na sua máquina:
 
 1. Clone este repositório:
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/matheuseitelcampelo/landing-page-frontend-alura.git)
+   git clone https://github.com/matheuseitelcampelo/landing-page-frontend-alura.git
