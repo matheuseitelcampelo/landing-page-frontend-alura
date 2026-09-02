@@ -1,0 +1,38 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #0E1014;
+    color: #FFFFFF;
+}
+
+header {
+    margin-top: 75px;
+    margin-left: 360px;
+}
+
+.logo {
+    display: inline-block;
+}
+
+section {
+    margin-top: 60px;
+    margin-left: 564px;
+}
+
+p {
+    margin-top: 24px;
+}
+
+.botao {
+    display: block;
+    margin-top: 40px;   
+}
+
+.decoracao {
+    margin-top: 40px;
+    display: block;
+}
