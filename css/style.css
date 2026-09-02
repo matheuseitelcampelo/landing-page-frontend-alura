@@ -22,8 +22,11 @@ header {
 }
 
 section {
+    magin: 60px auto;
     margin-top: 60px;
     margin-left: 564px;
+    width: 792px;
+    height: 846px;
 }
 
 h1 {
@@ -34,7 +37,9 @@ h1 {
     font-size: 64px;
     width: 625px;
     height: 158px;
-    text-align:center
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 span {
@@ -42,7 +47,7 @@ h1 span {
 }
 
 p {
-    margin-top: 24px;
+    margin: 24px auto 0px auto;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -54,10 +59,19 @@ p {
 
 .botao {
     display: block;
-    margin-top: 40px;   
+    margin: 40px auto 0px auto;   
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
+    font-size: 18px;
+    width: 340px;
+    height: 66px;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    background: #9747FF;
+    line-height: 66px;
+    border-radius: 36px;
 }
 
 .decoracao {
