@@ -27,10 +27,18 @@ section {
 }
 
 h1 {
-  font-family: "Unbounded", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
+    font-family: "Unbounded", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 64px;
+    width: 625px;
+    height: 158px;
+    text-align:center
+}
+
+h1 span {
+    color: #9747FF;
 }
 
 p {
@@ -38,6 +46,10 @@ p {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
+    width: 600px;
+    height: 72px;
+    text-align: center;
+    
 }
 
 .botao {
