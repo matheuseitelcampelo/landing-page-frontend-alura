@@ -9,6 +9,30 @@ body {
     color: #FFFFFF;
 }
 
+header {
+    margin-top: 75px;
+    margin-left: 360px;
+}
+
 .logo {
-    display: inline-block
+    display: inline-block;
+}
+
+section {
+    margin-top: 60px;
+    margin-left: 564px;
+}
+
+p {
+    margin-top: 24px;
+}
+
+.botao {
+    display: block;
+    margin-top: 40px;   
+}
+
+.decoracao {
+    margin-top: 40px;
+    display: block;
 }
