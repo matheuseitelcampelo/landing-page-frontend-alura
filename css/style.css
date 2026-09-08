@@ -86,7 +86,7 @@ p {
 
 
 /* tela de tablet */
-@media (max-width: 768px) {
+@media (max-width: 810px) {
 
     body {
         max-width: 768px;
@@ -114,7 +114,7 @@ p {
 }
 
 /* tela de celular */
-@media (max-width: 375px) {
+@media (max-width: 480px) {
 
     body {
         max-width: 375px;
