@@ -2,7 +2,8 @@
 
 > **Status do Projeto:** 🚧 Em Desenvolvimento (Recriação Autônoma)
 
-<!-- ![Demonstração do Projeto](https://via.placeholder.com/1200x600/111827/FFFFFF?text=Adicione+aqui+uma+screenshot+do+seu+projeto) -->
+![Preview Desktop](assets\desktop version.png)
+
 
 ## 📌 Sobre o Projeto
 
