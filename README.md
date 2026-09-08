@@ -2,7 +2,7 @@
 
 > **Status do Projeto:** 🚧 Em Desenvolvimento (Recriação Autônoma)
 
-![Preview Desktop](assets\desktop version.png)
+![Preview Desktop](assets\desktop_version.png)
 
 
 ## 📌 Sobre o Projeto
