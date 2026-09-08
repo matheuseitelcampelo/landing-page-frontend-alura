@@ -77,3 +77,14 @@ p {
     margin-top: 40px;
     display: block;
 }
+
+
+/* tela de tablet */
+@media (max-width: 768px) {
+    
+}
+
+/* tela de celular */
+@media (max-width: 375px) {
+    
+}
