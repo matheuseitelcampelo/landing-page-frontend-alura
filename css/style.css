@@ -25,13 +25,13 @@ header {
 }
 
 section {
-    margin: 0px auto 0px auto;
+    margin: 60px auto 0px auto;
     max-width: 792px;
     text-align: center;
 }
 
 h1 {
-    margin: 60px auto 0px auto;
+    margin: 0 auto;
     font-family: "Unbounded", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -60,7 +60,7 @@ p {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
-    font-size: 18px;
+    font-size: 24px;
     width: 340px;
     height: 66px;
     text-align: center;
@@ -83,6 +83,29 @@ p {
 
 /* tela de tablet */
 @media (max-width: 768px) {
+
+    body {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+
+    header {
+        margin-top: 65px;
+        max-width: 648px;
+    }
+
+    section {
+        max-width: 648px;
+        margin-top: 72px;
+    }
+
+    p , h1 {
+        width: 648px
+    }
+
+    p {
+        height: 108px;
+    }
     
 }
 
