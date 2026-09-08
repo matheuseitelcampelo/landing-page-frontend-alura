@@ -1,8 +1,16 @@
 # 🚀 Landing Page — Estudo de Caso Front-End
 
-> **Status do Projeto:** 🚧 Em Desenvolvimento (Recriação Autônoma)
+> **Status do Projeto:** 🚧 Concluido (Recriação Autônoma)
 
-<!-- ![Demonstração do Projeto](https://via.placeholder.com/1200x600/111827/FFFFFF?text=Adicione+aqui+uma+screenshot+do+seu+projeto) -->
+## Versão desktop:
+![Preview Desktop](assets/desktop_version.png)
+
+## Versão tablet:
+![Preview Tablet](assets/tablet_version.png)
+
+## Versão mobile:
+![Preview Mobile](assets/mobile_version.png)
+
 
 ## 📌 Sobre o Projeto
 
@@ -47,13 +55,13 @@ O projeto foi iniciado após a introdução dos conceitos em aula e está sendo 
 
 ---
 
-<!-- ## 🌐 Como Visualizar o Projeto Online 
+## 🌐 Como Visualizar o Projeto Online 
 
 O projeto está publicado e pode ser acessado diretamente pelo navegador:
 
-👉 **[Acessar a Landing Page Online](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO)** *(Substitua com o link final do GitHub Pages)*
+👉 [Acessar a Landing Page Online](https://matheuseitelcampelo.github.io/landing-page-frontend-alura/)
 
----  -->
+---
 
 ## 💻 Como Executar Localmente
 
