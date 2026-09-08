@@ -13,12 +13,11 @@ body {
 }
 
 header {
-    margin-top: 75px;
+    margin: 75px 360px 0 360px;
 }
 
 .logo {
     display: inline-block;
-    margin-left: 360px;
     text-align: left;
 }
 
