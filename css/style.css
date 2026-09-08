@@ -25,8 +25,7 @@ header {
 
 section {
     margin: 0px auto;
-    width: 792px;
-    height: 846px;
+    max-width: 792px;
     text-align: center;
 }
 
