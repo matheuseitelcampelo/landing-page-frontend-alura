@@ -69,6 +69,10 @@ p {
     border-radius: 36px;
 }
 
+.botao:hover {
+    background: #8233E8;
+}
+
 .decoracao {
     margin-top: 40px;
     display: block;
