@@ -75,6 +75,10 @@ p {
     background: #8233E8;
 }
 
+.decoracao-mobile {
+    display: none;
+}
+
 .decoracao {
     margin-top: 40px;
     display: block;
@@ -111,5 +115,43 @@ p {
 
 /* tela de celular */
 @media (max-width: 375px) {
+
+    body {
+        max-width: 375px;
+        margin: 0 auto;
+    }
+
+    header {
+        margin-top: 32px;
+        max-width: 343px;
+    }
+
+    section {
+        max-width: 341px;
+        margin: 60px auto 0px;
+    }
+
+    h1 {
+        font-size: 40px;
+        max-width: 341px;
+    }
+
+    p {
+        font-size: 20px;
+        max-width: 341px;
+    }
+
+    .botao {
+        font-size: 20px;
+        max-width: 251px;
+    }
+    .decoracao {
+        display: none;
+    }
+
+    .decoracao-mobile {
+        display: block;
+        margin-top: 40px;
+    }
     
 }
