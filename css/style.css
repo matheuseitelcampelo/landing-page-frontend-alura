@@ -83,12 +83,16 @@ p {
 /* tela de tablet */
 @media (max-width: 768px) {
 
-    header {
-        margin-top: 65px;
+    body {
+        max-width: 768px;
     }
 
-    .logo {
-        margin-left: 60px;
+    header {
+        margin: 65px 60px 0 60px;;
+    }
+
+    section {
+        max-width: 648px;
     }
     
 }
