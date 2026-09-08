@@ -55,13 +55,13 @@ O projeto foi iniciado após a introdução dos conceitos em aula e está sendo 
 
 ---
 
-<!-- ## 🌐 Como Visualizar o Projeto Online 
+## 🌐 Como Visualizar o Projeto Online 
 
 O projeto está publicado e pode ser acessado diretamente pelo navegador:
 
-👉 **[Acessar a Landing Page Online](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO)** *(Substitua com o link final do GitHub Pages)*
+👉 [Acessar a Landing Page Online](https://matheuseitelcampelo.github.io/landing-page-frontend-alura/)
 
----  -->
+---
 
 ## 💻 Como Executar Localmente
 
