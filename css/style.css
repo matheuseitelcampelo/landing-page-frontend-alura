@@ -81,6 +81,14 @@ p {
 
 /* tela de tablet */
 @media (max-width: 768px) {
+
+    header {
+        margin-top: 65px;
+    }
+
+    .logo {
+        margin-left: 60px;
+    }
     
 }
 
