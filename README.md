@@ -1,8 +1,15 @@
 # 🚀 Landing Page — Estudo de Caso Front-End
 
-> **Status do Projeto:** 🚧 Em Desenvolvimento (Recriação Autônoma)
+> **Status do Projeto:** 🚧 Concluido (Recriação Autônoma)
 
-![Preview Desktop](assets\desktop_version.png)
+## Versão desktop:
+![Preview Desktop](assets/desktop_version.png)
+
+## Versão tablet:
+![Preview Tablet](assets/tablet_version.png)
+
+## Versão mobile:
+![Preview Mobile](assets/mobile_version.png)
 
 
 ## 📌 Sobre o Projeto
