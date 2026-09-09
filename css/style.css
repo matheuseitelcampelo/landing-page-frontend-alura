@@ -17,6 +17,7 @@ body {
 header {
     margin: 75px auto 0 auto;
     max-width: 1200px;
+    padding: 0px 60px;
 }
 
 .logo {
@@ -25,9 +26,10 @@ header {
 }
 
 section {
-    margin: 60px auto 0px auto;
+    margin: 43px auto 0px auto;
     max-width: 792px;
     text-align: center;
+    padding: 0px 17px;
 }
 
 h1 {
@@ -96,11 +98,13 @@ p {
     header {
         margin-top: 65px;
         max-width: 648px;
+        padding: 0px 16px; 
     }
 
     section {
         max-width: 648px;
         margin-top: 72px;
+        padding: 0px 17px;
     }
 
     p , h1 {
